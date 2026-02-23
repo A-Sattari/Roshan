@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="" width="200" />
+<img src="assets/logo.png" width="200" />
 
 # Roshan
-A clean light theme for your Code Editor
+A clean light theme designed for maximum legibility and zero visual clutter.
 </div>
 
 ## Theme Preview
 <p align="center">
-<img src=""/>
+![Theme Preview](assets/shot1.png)
+![Theme Preview](assets/shot2.png)
 </p>
 
 ## Installation

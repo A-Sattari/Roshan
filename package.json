@@ -1,10 +1,14 @@
 {
     "name": "roshan",
-    "displayName": "Roshan Light Theme",
-    "description": "The ultimate light theme",
+    "displayName": "Roshan Theme",
+    "description": "The ultimate legible light theme",
     "version": "1.0.0",
     "publisher": "Sattari",
     "icon": "assets/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/A-Sattari/Roshan"
+    },
     "engines": {
         "vscode": "^1.60.0"
     },
