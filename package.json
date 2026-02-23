@@ -1,0 +1,34 @@
+{
+    "name": "roshan",
+    "displayName": "Roshan Light Theme",
+    "description": "The ultimate light theme",
+    "version": "1.0.0",
+    "publisher": "Sattari",
+    "icon": "assets/logo.png",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "light",
+        "white",
+        "gray",
+        "grey",
+        "color theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Roshan",
+                "uiTheme": "vs",
+                "path": "./themes/roshan-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.15.0"
+    }
+}
