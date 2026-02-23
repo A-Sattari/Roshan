@@ -24,6 +24,8 @@
 		"terminalOverviewRuler.border": "#3b0000",
 		"statusBar.background": "#0061bc",
 		"statusBar.noFolderBackground": "#0061bc",
+		"extensionButton.border":"#cc0099",
+		"extensionIcon.starForeground":"#ba7f00",
 	},
 	"tokenColors": [
 		{
